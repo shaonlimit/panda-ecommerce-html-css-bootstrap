@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+#carousel {
+    background-color: #FEEAE9;
+}
+.carousel-btn{
+    background-color: #FF1771;
+    color: #FF428D;
+    background-image: linear-gradient(to bottom,#FF428D, #FF1771);
+}
+.carousel-price {
+    color: #FF1771;
+    font-size: 30px;
+    font-weight: 600;
+}
+.carousel-p, .card-text, .supcription-text, .footer-text {
+    color:#837e7e ;
+}
+/* -------------------category---------------- */
+#watch {
+    background-image: linear-gradient(to right, #F89B33,#FFD019);
+    
+}
+
+#bag {
+    background-image: linear-gradient(to right, #FF267B, #FF4992);
+}
+#shoes {
+    background-image: linear-gradient(to right, #4275FE, #3F09F8);
+}
+.see-all {
+    color: #FDB84B;
+    
+   
+}
+.see-all:hover {
+    color: #FDB84B;
+   
+}
+.card-section {
+    padding: 50px 0;
+}
+/* ----------sbucription---------- */
+.subcription {
+    background-color: #FEEAE9 !important;
+    padding: 50px 100px;
+
+}
+.subcribe-email {
+    border: none;
+    outline: none;
+}
+
+
+
